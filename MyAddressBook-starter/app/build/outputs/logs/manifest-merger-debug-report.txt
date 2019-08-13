@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+MERGED from [com.android.support:design:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/81b530f433ec3715ca95c6fccc1b6252/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f48b9dc6f2fa55ecf670aaaf7e27beb4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/federico/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26cb754caa11216c71952eba7143b05e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/1ef4735b641bdb1c8348babdb22ba675/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/20f757aa7f4eea20dfe342ca4580d5f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/01ee05719508b036ab44f81ebf56dff3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/15560a696d41967c7a73e148a32f8f46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/e8dc3215315095a2bffdeed120ce3191/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/3e2a22bdb8cd25a5a25af3bfe9a2ec49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/3251ee66a413c69668bed82f7e8eb863/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/7b4a7c0085381edc2c9f783df00ab781/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/f86c2d16bbec8cc747aea7d42aafba5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/c0da541972ecc8f115ea77b95834b125/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b737f66e171387c58f354a6abe351c52/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/23df83a6c3b82f630d6c9e4ae63e819c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/71450a411e4ec0a81f94ee4a6882dc78/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/09e6f1f4396344472724417ef4608b76/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+	package
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:18:5-48
+		INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+		INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:1-39:12
+		INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:20:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/federico/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26cb754caa11216c71952eba7143b05e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/federico/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26cb754caa11216c71952eba7143b05e/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:26:9-40
+activity#com.example.android.myaddressbook.ContactsActivity
+ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:28:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/81b530f433ec3715ca95c6fccc1b6252/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/81b530f433ec3715ca95c6fccc1b6252/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f48b9dc6f2fa55ecf670aaaf7e27beb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/f48b9dc6f2fa55ecf670aaaf7e27beb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/federico/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26cb754caa11216c71952eba7143b05e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/federico/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/26cb754caa11216c71952eba7143b05e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/1ef4735b641bdb1c8348babdb22ba675/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/1ef4735b641bdb1c8348babdb22ba675/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/20f757aa7f4eea20dfe342ca4580d5f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/20f757aa7f4eea20dfe342ca4580d5f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/01ee05719508b036ab44f81ebf56dff3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/01ee05719508b036ab44f81ebf56dff3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/15560a696d41967c7a73e148a32f8f46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/15560a696d41967c7a73e148a32f8f46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/e8dc3215315095a2bffdeed120ce3191/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/e8dc3215315095a2bffdeed120ce3191/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/3e2a22bdb8cd25a5a25af3bfe9a2ec49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/3e2a22bdb8cd25a5a25af3bfe9a2ec49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/3251ee66a413c69668bed82f7e8eb863/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/3251ee66a413c69668bed82f7e8eb863/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/7b4a7c0085381edc2c9f783df00ab781/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/7b4a7c0085381edc2c9f783df00ab781/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/f86c2d16bbec8cc747aea7d42aafba5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/f86c2d16bbec8cc747aea7d42aafba5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/c0da541972ecc8f115ea77b95834b125/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/c0da541972ecc8f115ea77b95834b125/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b737f66e171387c58f354a6abe351c52/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b737f66e171387c58f354a6abe351c52/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/23df83a6c3b82f630d6c9e4ae63e819c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/23df83a6c3b82f630d6c9e4ae63e819c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/71450a411e4ec0a81f94ee4a6882dc78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/71450a411e4ec0a81f94ee4a6882dc78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/09e6f1f4396344472724417ef4608b76/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/federico/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/09e6f1f4396344472724417ef4608b76/AndroidManifest.xml:20:5-44
+INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/src/main/AndroidManifest.xml

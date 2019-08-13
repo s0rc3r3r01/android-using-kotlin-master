@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat Aug 10 15:47:41 BST 2019
+1.base=/Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/build/intermediates/transforms/dexMerger/debug/11
+2.path=mock_contacts.json
+0.baseType=DIRECTORY
+2.base=/Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/build/intermediates/assets/debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/federico/AndroidStudioProjects/android-using-kotlin-master/MyAddressBook-starter/app/build/intermediates/transforms/dexMerger/debug/12
+2.baseType=DIRECTORY
+1.path=classes.dex
